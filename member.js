@@ -442,4 +442,17 @@ export const club_advisor_details = [
     github_link: ``,
     year: ''
   },
+  {
+    id: 11,
+    firstname: 'Bibhuti',
+    fullname: 'Bibhuti Bhusan Sahu',
+    description: `interest in coding and web development.`,
+    desgination: '',
+    member_type: 'Core member',
+    member:"student",
+    profile_img: 'https://avatars.githubusercontent.com/u/141359294?v=4',
+    linkedln_link: `https://www.linkedin.com/in/bibhuti-sahu-b2996226b`,
+    github_link: `https://github.com/sahubibhuti0192`,
+    year: '2022'
+  },
 ];
