@@ -396,6 +396,19 @@ export const admin_data = [
     name: 'Sambit Sargam Ekalabya',
     year: 2020
   },
+  {
+    id: 12,
+    firstname: 'Arpan',
+    fullname: 'Arpan',
+    description: ` Android Development, Web development, Cloud Computing. \n"Aspire to contribute to the global impact for betterment of society and mankind"\n`,
+    desgination: 'Junior Full stack developer',
+    member_type: 'Core Member',
+    member:"student",
+    profile_img: 'https://avatars.githubusercontent.com/u/111677648?v=4',
+    linkedln_link: `https://www.linkedin.com/in/arpanpadhi/`,
+    github_link: `https://github.com/beingtechsavy`,
+    year: '2026'
+  },
 ]
 
 
